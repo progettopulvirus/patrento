@@ -3,14 +3,14 @@
 \docType{data}
 \name{o3_max_mm8h_d}
 \alias{o3_max_mm8h_d}
-\title{Tibble con i dati di o3_max_mm8h_d per 6 stazioni della regione PATRENTO}
+\title{Tibble con i dati di o3_max_mm8h_d per 5 stazioni della regione PATRENTO}
 \format{
-Un tibble con 8 colonne e 14974 osservazioni
+Un tibble con 8 colonne e 14610 osservazioni
 }
 \usage{
 o3_max_mm8h_d
 }
 \description{
-Tibble con i dati di o3_max_mm8h_d per 6 stazioni della regione PATRENTO
+Tibble con i dati di o3_max_mm8h_d per 5 stazioni della regione PATRENTO
 }
 \keyword{datasets}

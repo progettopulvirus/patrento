@@ -1,6 +1,6 @@
-#' Tibble con i dati di pm10 per 7 stazioni della regione PATRENTO
+#' Tibble con i dati di pm10 per 6 stazioni della regione PATRENTO
 #'
-#' @format Un tibble con 8 colonne e 17774 osservazioni
+#' @format Un tibble con 8 colonne e 17532 osservazioni
 #'
 #' @usage
 #' pm10
